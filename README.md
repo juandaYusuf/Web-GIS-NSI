@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## additional libraries
+
+- [nextui](https://nextui.org/)
+- [react-leaflet](https://react-leaflet.js.org/)
+- [tailwindcss](https://tailwindcss.com/)
+- [next js 13](https://nextjs.org/)
+
+make sure to install
+
+```bash
+  Node JS
+```
 
 ## Getting Started
 
